@@ -50,7 +50,7 @@ python etl.py
 Accesorios           2        24      7650
  Papelería           2        55      2850
 ```
-![Salida del pipeline] (Salida.png)
+![Salida del pipeline](Salida.png)
 ## Tarea integradora (`etl_api.py`)
 
 Extrae el catálogo completo de `https://dummyjson.com/products`, calcula `precio_final` (con descuento) y `valor_inventario`, y lo carga a `catalogo.db` en un esquema estrella con dos dimensiones (`dim_categoria`, `dim_marca`) y la tabla de hechos `fact_productos`. Requiere conexión a internet.
