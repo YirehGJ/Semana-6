@@ -1,0 +1,16 @@
+producto,categoria,precio,cantidad
+Laptop Lenovo,Cómputo,15000,2
+Mouse inalámbrico,Cómputo,250,10
+Teclado mecánico,Cómputo,1200,4
+Monitor 24",Cómputo,3200,3
+Silla ergonómica,Oficina,1800,5
+Escritorio,Oficina,2900,2
+Lámpara LED,Oficina,450,8
+Audífonos,Audio,900,6
+Bocina Bluetooth,Audio,750,7
+Micrófono USB,Audio,1100,3
+Cuaderno,Papelería,45,30
+Bolígrafos (paquete),Papelería,60,25
+Mochila,Accesorios,650,9
+Cable USB-C,Accesorios,120,15
+Mouse inalámbrico,Cómputo,250,
